@@ -7,4 +7,4 @@ Projeto criado durante o curso de **React Router** da Alura, onde aprendemos sob
 
 ## 🚀 Link do Projeto
 
-- [Deploy](https://alura-geek-sigma-pied.vercel.app/)
+- [Deploy](https://ola-mundo-vert-rho.vercel.app/)
